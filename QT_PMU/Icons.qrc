@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>res/home_256.png</file>
+        <file>res/wave-graph.png</file>
+    </qresource>
+</RCC>
